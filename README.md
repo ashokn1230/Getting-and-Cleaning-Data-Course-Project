@@ -1,0 +1,12 @@
+#Steps explaining how the script works
+- Set the working directory
+- Prepared Training and Testing Dataset 
+  - Read the data, label and subject using read.table function
+  - Convert the label and subject to factors and Bind all the columns
+- Merged the training and the test sets to create one data set.
+- Column names are assigned to the dataset from the feature.txt file
+- Extracted only the measurements on the mean and standard deviation for each measurement
+- Assigned descriptive activity names to the activities in the data set
+- Appropriately labeled the data set with descriptive variable names
+- Created independent tidy dataset with the average of each variable for each activity and each subject
+- created a text document of the independent tidy dataset
