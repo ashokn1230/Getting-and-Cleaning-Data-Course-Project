@@ -37,12 +37,12 @@ These signals were used to estimate variables of the feature vector for each pat
 ### Factors in the Tidy Dataset
 * Subject : Subject IDs
 * Activity : Activity IDs
-  1. WALKING
-  2. WALKING_UPSTAIRS
-  3. WALKING_DOWNSTAIRS
-  4. SITTING
-  5. STANDING
-  6. LAYING
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
 
 ## All the Variables in the Final Tidy Dataset
 - "subject"
