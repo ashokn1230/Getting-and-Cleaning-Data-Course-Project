@@ -34,7 +34,7 @@ These signals were used to estimate variables of the feature vector for each pat
 * mean(): Mean value
 * std(): Standard deviation
 
-### factors
+### Factors in the Tidy Dataset
 * Subject : Subject IDs
 * Activity : Activity IDs
   1. WALKING
@@ -44,7 +44,7 @@ These signals were used to estimate variables of the feature vector for each pat
   5. STANDING
   6. LAYING
 
-## 68 Variables in the Tidy Dataset
+## All the Variables in the Final Tidy Dataset
 -"subject"
 -"activity"
 -"Time_Body_Acceleration_Mean_Xdirection"
