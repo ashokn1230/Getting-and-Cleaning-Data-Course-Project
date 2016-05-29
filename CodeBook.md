@@ -31,12 +31,12 @@ These signals were used to estimate variables of the feature vector for each pat
 
 ### The set of variables that were estimated from these signals are: 
 
-*mean(): Mean value
-*std(): Standard deviation
+* mean(): Mean value
+* std(): Standard deviation
 
 ### factors
-*Subject : Subject IDs
-*Activity : Activity IDs
+* Subject : Subject IDs
+* Activity : Activity IDs
   1. WALKING
   2. WALKING_UPSTAIRS
   3. WALKING_DOWNSTAIRS
